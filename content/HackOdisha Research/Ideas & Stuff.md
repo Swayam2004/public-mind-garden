@@ -1,0 +1,15 @@
+## Interesting Points
+- Agriculture more trending than Education and Healthcare section (Seithere emotion points thae)
+- Agrotech is also a neglected sector (Nobody goes into detail in this section, so less participants, less competition, more chances of selection)
+- In IOT applications, mostly Azure is used, that has become a industry standard
+
+## Interesting Ideas
+1. Make a automated system to read data from Municipal bodies or PWDs on what kind of projects they are working on, amount of money spend and which contractor the project is assigned to. The taxpayer can enter the amount of tax given by him/her and his/her area, they will get a report of what projects are going on in his/her area and how much of tax money is being used. This will help in bending down corruption, increase the quality of public projects, will help in addressing grievances to exploited taxation and also decrease brain drain.
+	- Gote idea achi if we make a website jouthire ki ame kn kariba na municipal bodies ki pwd wagera ra websites re asuthiba sabu projects files ku auto gote system re read karieki sethire data extract kariba ki project ra amount kete au contractor kie au seta ku gote map re represent kariba 
+	- then from a taxpayer pov sie sethire tah location au taxes kete file karuchi enter kariba ame tah location use kariki taku gote report type dabu ki tah location re kete amount ra spending govt karichi au tara return on taxes kete au sethire sie project ra quality ku bhi rate karipariba 
+	- eta ru corruption bend down haba au quality of public projects bhi curve down haba au normal loka nku bhi jana padiba ki tanka money kouthi spend hauchi tanka jou grievances to exploited taxation paie seta bhi address haba jouta ki brain drain ku bhi curve down kariba
+2. Idea
+	- Au gote bhi Idea achi if we integrate a product combining google fit+healthfyme+ swiggy/zomato 
+	- the google fit will maintain and collect the data about the working/movements of an individual which will be reported to our algorithm which will analyze it and suggest a diet plan(just like HealthifyMe) and it will automatically find the product on Swiggy/Zomato and order it 
+	- it will address a lot of gym freaks and etc 
+	- we can even also add an option to provide medicines in case of any health disorder
