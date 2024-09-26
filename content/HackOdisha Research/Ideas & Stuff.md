@@ -1,5 +1,5 @@
 ## Interesting Points
-- Agriculture more trending than Education and Healthcare section (Seithere emotion points thae)
+- Agriculture more trending than Education and Healthcare section (Seithere emotion points thae and many places where we can develop new things, doesn't have much complications as the Health care industry)
 - Agrotech is also a neglected sector (Nobody goes into detail in this section, so less participants, less competition, more chances of selection)
 - In IOT applications, mostly Azure is used, that has become a industry standard
 
@@ -13,3 +13,4 @@
 	- the google fit will maintain and collect the data about the working/movements of an individual which will be reported to our algorithm which will analyze it and suggest a diet plan (just like HealthifyMe) and it will automatically find the product on Swiggy/Zomato and order it
 	- it will address a lot of gym freaks and etc 
 	- we can even also add an option to provide medicines in case of any health disorder
+	Anshuman has worked on a similar project, whose scale is very small, but with the help of BeautifulSoup, he extracted the data from all the internship sites, produced an excel sheet, on which we can do more data analysis and stuff
