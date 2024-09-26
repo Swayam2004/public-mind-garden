@@ -1,5 +1,6 @@
 ## Adarsh
 - Ideation
+- Research
 - API and related stuff
 - Design
 ## Anshuman
@@ -14,6 +15,7 @@
 - Design
 ## Swayam
 - Ideation
+- Organization
 - Frontend
 - Backend
 - Design
